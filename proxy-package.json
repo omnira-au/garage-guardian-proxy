@@ -1,0 +1,5 @@
+{
+  "name": "garage-guardian-proxy",
+  "version": "1.0.0",
+  "description": "Anthropic API proxy for Garage Guardian model finder"
+}
